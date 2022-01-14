@@ -8,3 +8,11 @@ export const projects = [
     link: "https://stopla.in/",
   }
 ];
+
+export const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Python"
+]
