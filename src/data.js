@@ -14,5 +14,6 @@ export const skills = [
   "CSS",
   "JavaScript",
   "React",
-  "Python"
+  "Python",
+  "Java Spring Boot"
 ]

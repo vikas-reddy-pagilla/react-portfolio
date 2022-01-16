@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Stopla an agritern application. 
+          Stopla is an e-commerce delivery application that sells locally grown highest quality fresh farm produce to the customers directly from the farm in the least possible time from the time of harvest at an optimal price.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
