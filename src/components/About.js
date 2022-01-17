@@ -1,4 +1,5 @@
 import React from "react";
+import code from "../images/code2.jpg";
 
 export default function About() {
    return(
@@ -13,8 +14,7 @@ export default function About() {
           Enthusiastic developer eager to contribute to team
           success through smart work, attention to detail, and
           excellent organizational skills. A clear understanding
-          of the work environment and developer
-          requirements and training in required skills. Motivated
+          of the work environment and developer requirements and training in required skills. Motivated
           to learn, grow, and excel in technology.
         </p>
         <div className="flex justify-center">
@@ -31,10 +31,10 @@ export default function About() {
         </div>
       </div>
       <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-        <img
-          className="object-cover object-center rounded"
+        <img 
+          className="object-cover object-center rounded "
+          src={code}
           alt="hero"
-          src="./coding.svg"
         />
       </div>
     </div>
