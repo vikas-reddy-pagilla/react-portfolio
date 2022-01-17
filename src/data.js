@@ -6,7 +6,8 @@ export const projects = [
     subtitle: "E-commerce Website",
     description:
       "Stopla is an e-commerce delivery application that sells locally grown highest quality fresh farm produce to the customers directly from the farm in the least possible time from the time of harvest at an optimal price.",
-      image: "./images/stopla.jpg",
+      image: require('./images/stopla.jpg')
+      ,
       link: "https://stopla.in/"
   },
   {
@@ -14,7 +15,7 @@ export const projects = [
     subtitle: "A digital portfolio or e-portfolio",
     description:
       "An online representation of work you have created, as well as your skills and experiences",
-    image: "./images/port.jpg",
+    image: require('./images/port.jpg'),
     link: "https://stopla.in/",
   }
 ];
