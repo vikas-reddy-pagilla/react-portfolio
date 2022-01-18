@@ -13,12 +13,21 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
-            
+          The technology used to build these Websites are React and Java Spring Boot. Find the code repos below and don't forget to visit the Websites.
           </p>
         </div>
+            
+        <div className="mr-4">
+        <a href="https://github.com/" className="hover:text-white mr-20" >
+        Code Repo for Stopla 
+        </a>
+        <a href="https://github.com/" className="hover:text-white ml-20">
+        Code Repo for Portfolio
+        </a>
+        <br>
+        </br>
+        </div>
+        
         <div className="flex flex-wrap -m-4 items-center">
           {projects.map((project) => (
             <a
