@@ -73,7 +73,7 @@ export default function Contact() {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-          I’m interested in freelance opportunities – especially ambitious or large projects. However, if you have other request or question, don’t hesitate to use the form.
+          I’m interested in corporate opportunities – especially ambitious or large projects. However, if you have other request or question, don’t hesitate to use the form.
 
 
           </p>
