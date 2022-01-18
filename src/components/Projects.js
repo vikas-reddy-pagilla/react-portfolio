@@ -18,10 +18,10 @@ export default function Projects() {
         </div>
             
         <div className="mr-4">
-        <a href="https://github.com/" className="hover:text-white mr-20" >
+        <a href="https://github.com/vikas-reddy-pagilla/stopla" className="hover:text-white mr-20" >
         Code Repo for Stopla 
         </a>
-        <a href="https://github.com/" className="hover:text-white ml-20">
+        <a href="https://github.com/vikas-reddy-pagilla/react-portfolio" className="hover:text-white ml-20">
         Code Repo for Portfolio
         </a>
         <br>
